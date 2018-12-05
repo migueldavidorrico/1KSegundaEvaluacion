@@ -14,5 +14,6 @@ public class Pruebas {
         netflix[3].setValoracion(2);        //        v[3]++;
         System.out.println(netflix[3]);
 
+
     }
 }
