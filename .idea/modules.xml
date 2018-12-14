@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/1KSegundaEvaluacion.iml" filepath="$PROJECT_DIR$/.idea/1KSegundaEvaluacion.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Control7diciembre/Control7diciembre.iml" filepath="$PROJECT_DIR$/Control7diciembre/Control7diciembre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlesViernes/ControlesViernes.iml" filepath="$PROJECT_DIR$/ControlesViernes/ControlesViernes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticaGestion/PracticaGestion.iml" filepath="$PROJECT_DIR$/PracticaGestion/PracticaGestion.iml" />
       <module fileurl="file://$PROJECT_DIR$/SolucionExamenPrimera/SolucionExamenPrimera.iml" filepath="$PROJECT_DIR$/SolucionExamenPrimera/SolucionExamenPrimera.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tema5Arrays/Tema5Arrays.iml" filepath="$PROJECT_DIR$/Tema5Arrays/Tema5Arrays.iml" />
     </modules>

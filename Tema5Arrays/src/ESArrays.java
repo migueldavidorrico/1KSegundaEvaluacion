@@ -16,4 +16,29 @@ public class ESArrays {
         }
         return salida;
     }
+
+
+    public static String muestraGUI(int[] entrada) {
+        String salida="<html>";
+        salida+="<table style=\"" +
+                "border: 1px solid #1C6EA4;" +
+                "  background-color: #EEEEEE;" +
+                "  width: 100%;" +
+//                "  text-align: left;" +
+                "  border-collapse: collapse;\">";
+
+        salida+="<tr>";
+
+        for (int i :
+                entrada) {
+            salida+="<td style=\"border: 3px solid #AAAAAA;color:#EEEEEE" +
+                    " padding: 6px 4px;background-color: #220011;\">";
+            salida+="<pre style=\"font-size:24px;\">"+i+"</pre>";
+            salida+="</td>";
+        }
+
+        salida+="</tr></table>";
+        salida+="</html>";
+        return salida;
+    }
 }
